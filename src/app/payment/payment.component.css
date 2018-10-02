@@ -1,0 +1,38 @@
+.divPartition {
+    padding-top: 10px;
+}
+#heading {
+    font-size: 2rem;
+    color: gray;
+}
+.divSubPartition {
+    background-color: #ececec;
+    padding: 60px 10px 40px;
+}
+.firstDiv {
+    background-color: #ececec;
+    padding: 20px;
+}
+#price {
+    color: #5e5d5d;
+    font-weight: bold;
+}
+ul {
+    padding: 30px 0px 20px;
+}
+ul li{
+    display: inline;
+    padding: 30px;
+  }
+
+  .active{
+    background-color: white;
+  }
+.control-group{
+    margin-bottom: 10px;
+}
+#buyButton {
+    padding: 15px 15%;
+    font-weight: bold;
+    background-color: rgb(183, 216, 5);
+}
