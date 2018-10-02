@@ -1,4 +1,5 @@
 # PaymentWidget
+![webp net-gifmaker 1](https://raw.githubusercontent.com/SunilSigar/payment-widget/master/Screenshots/gif.gif)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
 
